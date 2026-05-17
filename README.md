@@ -102,7 +102,7 @@ Avant de commencer, assurez-vous d'avoir installé :
 
 1.  **Cloner le dépôt :**
     ```bash
-    git clone [https://github.com/Soihihou05/Diabetic-Detection-Retinopathie.git](https://github.com/Soihihou05/Diabetic-Detection-Retinopathie.git)
+    git clone [https://github.com/Soihihou05/Diabetic-Detection-Retinopathie.git](https://github.com/modesto77/RetinaScan.git)
     cd projet-ia-retino
     ```
 
